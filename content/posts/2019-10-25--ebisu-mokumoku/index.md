@@ -5,8 +5,6 @@ cover: tokyo.jpg
 author: Takeshi
 ---
 
-![unsplash.com](./photo-1465070845512-2b2dbdc6df66.jpg)
-
 ## `XSSと動的サイトの脆弱性`
 
 動的に生成されるWebサイトにおいて、
