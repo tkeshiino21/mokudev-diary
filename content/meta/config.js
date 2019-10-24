@@ -1,18 +1,18 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
+  siteTitle: "もくdev日誌", // <title>
+  shortSiteTitle: "もくdev", // <title> ending for posts and pages
+  siteDescription: "技術系のブログです。",
   siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "jp",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Takeshi",
+  authorTwitterAccount: "takeshiino21",
 
   /* info */
-  headerTitle: "greg lobinski",
+  headerTitle: "Takeshi Inoue",
   headerSubTitle: "presents another one GatsbyJS starter",
 
   /* manifest.json */
@@ -33,7 +33,7 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
+    { name: "twitter", url: "https://twitter.com/takeshiino21" },
     { name: "facebook", url: "http://facebook.com/greglobinski" }
   ]
 };

@@ -2,9 +2,11 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+26 years old  
 
-### Features:
+web developer  
+
+### Features
 
 * Easy editable content in **Markdown** files (posts, pages and parts)
 * **CSS** with `styled-jsx` and `PostCSS`
